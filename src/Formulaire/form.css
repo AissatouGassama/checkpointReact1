@@ -1,0 +1,23 @@
+form{
+    display:auto ;
+    padding-left: 600px;
+    border: 1px;
+    
+    
+}
+.inscr{
+    text-align: center;
+    color:#ff1493;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
+    padding-top: 50px;
+}
+.style{
+    color:#ff1493 ;
+    font-size: larger;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+.fo{
+
+    padding: 10px;
+}
